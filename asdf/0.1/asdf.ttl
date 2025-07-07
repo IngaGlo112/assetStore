@@ -14,7 +14,7 @@
   dct:creator "admin";
   dct:modified "2025-07-07T13:29:07.963Z"^^xsd:dateTime;
   dct:title "asdf"@en;
-  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/draft>;
+  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/published>;
   vaem:namespace <https://ontologies.metaphacts.com/asdf/>;
   rdfs:label "asdf"@en;
   owl:versionInfo "0.1" .
