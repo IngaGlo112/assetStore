@@ -14,7 +14,7 @@
   dct:creator "admin";
   dct:modified "2025-07-07T11:30:41.615Z"^^xsd:dateTime;
   dct:title "dfgdfg"@en;
-  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/draft>;
+  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/published>;
   vaem:namespace <https://vocabularies.metaphacts.com/dfgdfg/>;
   rdfs:label "dfgdfg"@en;
   owl:versionInfo "0.1";
