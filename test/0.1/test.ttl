@@ -14,7 +14,7 @@
   dct:creator "admin";
   dct:modified "2025-07-07T13:49:11.096Z"^^xsd:dateTime;
   dct:title "Test"@en;
-  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/draft>;
+  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/published>;
   vaem:namespace <https://ontologies.metaphacts.com/test/>;
   rdfs:label "Test"@en;
   owl:versionInfo "0.1" .
