@@ -14,7 +14,7 @@
   dct:creator "admin";
   dct:modified "2025-07-07T11:30:06.640Z"^^xsd:dateTime;
   dct:title "ljk"@en;
-  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/draft>;
+  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/published>;
   vaem:namespace <https://ontologies.metaphacts.com/ljk/>;
   rdfs:label "ljk"@en;
   owl:versionInfo "0.1" .
